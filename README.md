@@ -6,7 +6,7 @@
 
 > Localize seu ônibus em tempo real e nunca mais perca o horário no ponto.
 
-O **BusRadar** irá ser plataforma de rastreamento de transporte público projetada para oferecer precisão e facilidade ao usuário urbano. Através da integração com APIs de geolocalização, o sistema exibirá a posição exata da frota, estimativas de chegada e alertas de trânsito.
+O **BusRadar** irá ser uma plataforma de rastreamento de transporte público projetada para oferecer precisão e facilidade ao usuário urbano. Através da integração com APIs de geolocalização, o sistema exibirá a posição exata da frota, estimativas de chegada e alertas de trânsito.
 
 ---
 
