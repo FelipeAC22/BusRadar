@@ -1,16 +1,16 @@
 # 🚌 BusRadar
 
-*Este é o repositório para o PI BusRadar*
+*Este é o repositório para o PI BusRadar!*
 
 ---
 
 > Localize seu ônibus em tempo real e nunca mais perca o horário no ponto.
 
-O **BusRadar** é uma plataforma de rastreamento de transporte público projetada para oferecer precisão e facilidade ao usuário urbano. Através da integração com APIs de geolocalização, o sistema exibe a posição exata da frota, estimativas de chegada e alertas de trânsito.
+O **BusRadar** irá ser plataforma de rastreamento de transporte público projetada para oferecer precisão e facilidade ao usuário urbano. Através da integração com APIs de geolocalização, o sistema exibirá a posição exata da frota, estimativas de chegada e alertas de trânsito.
 
 ---
 
-## ✨ Funcionalidades a serem adicionadas:
+## ✨ Funcionalidades que serão adicionadas:
 
 * **📍 Rastreamento em Tempo Real:** Visualize os ônibus se movendo no mapa instantaneamente.
 * **🕒 Previsão de Chegada:** Algoritmo que calcula o tempo estimado com base no tráfego atual.
