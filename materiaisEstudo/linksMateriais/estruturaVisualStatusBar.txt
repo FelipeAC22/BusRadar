@@ -1,0 +1,3 @@
+https://docs.expo.dev/versions/latest/sdk/status-bar/
+
+https://reactnative.dev/docs/flexbox
