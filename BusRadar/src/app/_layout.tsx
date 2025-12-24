@@ -13,7 +13,6 @@ export default function layout() {
                     headerShown: false,
                     contentStyle: { backgroundColor: colors.backgroud }
                 }}
-
             >
                 <Stack.Screen name="index" />
             </Stack>
