@@ -19,4 +19,3 @@ O **BusRadar** irá ser plataforma de rastreamento de transporte público projet
 * **📂 Favoritos:** Salve suas linhas e paradas mais utilizadas para acesso rápido.
 
 ---
-
