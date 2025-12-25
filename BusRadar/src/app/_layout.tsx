@@ -4,7 +4,7 @@ import { StatusBar } from 'expo-status-bar';
 import { StyleSheet } from "react-native";
 import { colors } from "../theme/colors";
 
-export default function layout() {
+export default function layout() { // função pro layout principal
     return (
         <GestureHandlerRootView style={styles.container}>
             <StatusBar style="dark" />
@@ -20,7 +20,7 @@ export default function layout() {
     )
 }
 
-const styles = StyleSheet.create({
+const styles = StyleSheet.create({ // o container
     container: {
         flex: 1,
     }
