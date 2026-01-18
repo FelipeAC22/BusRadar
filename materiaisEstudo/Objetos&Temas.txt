@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=AhM0poykFvQ
+
+https://blog.rocketseat.com.br/temas-com-typescript-react-native/
+
+https://www.typescriptlang.org/docs/handbook/2/objects.html

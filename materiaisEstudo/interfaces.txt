@@ -1,0 +1,7 @@
+https://www.koderhq.com/tutorial/typescript/interface/
+https://www.geeksforgeeks.org/javascript/interfaces-in-typescript/
+
+https://www.youtube.com/watch?v=q_a9BMDCTtE
+https://www.youtube.com/watch?v=VbW6vWTaHOY
+https://www.youtube.com/watch?v=SiZnlpIGWhc
+https://www.youtube.com/watch?v=-vXDU1HO-3s

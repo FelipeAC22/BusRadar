@@ -1,0 +1,10 @@
+https://www.youtube.com/watch?v=UHjKQ_nDmOU
+https://www.youtube.com/watch?v=6fAAeYGto-U
+
+https://reactiive.io/articles/bottom-sheet-animation
+https://docs.swmansion.com/react-native-reanimated/examples/bottomsheet
+https://medium.com/%40Sunil_Kumar_RN/building-a-bottom-sheet-with-gestures-in-react-native-typescript-910f987cc7b4
+https://docs.swmansion.com/react-native-reanimated/docs/3.x/fundamentals/handling-gestures/
+https://reactiive.io/articles/pan-gesture-handler
+
+https://medium.com/%40darlingtonkimbi/bottom-sheet-modal-in-react-native-556b66562aeb

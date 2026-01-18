@@ -1,0 +1,3 @@
+https://docs.swmansion.com/react-native-gesture-handler/docs/
+
+https://blog.rocketseat.com.br/react-native-gesture-handler/
